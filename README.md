@@ -1,2 +1,5 @@
 # SK_Test
-GIT 강의 실습
+GIT 강의 ?�습
+
+
+ABCDEFG
